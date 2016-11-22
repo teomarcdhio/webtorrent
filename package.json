@@ -1,0 +1,11 @@
+{
+  "name": "dev.nivetek.com",
+  "version": "1.0.0",
+  "description": "A dev enviornment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matteo",
+  "license": "ISC"
+}
